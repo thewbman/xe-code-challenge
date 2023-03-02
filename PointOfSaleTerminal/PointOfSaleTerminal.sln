@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSaleTerminal", "PointOfSaleTerminal\PointOfSaleTerminal.csproj", "{DC6B8020-1445-4E4B-93D1-0A5C3FC6091F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSaleTerminal.UnitTests", "PointOfSaleTerminal.UnitTests\PointOfSaleTerminal.UnitTests.csproj", "{7CF19068-D274-43F3-8828-F3A66ACA5F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSaleTerminal.Models", "PointOfSaleTerminal.Models\PointOfSaleTerminal.Models.csproj", "{AFCE02AF-B829-4AE4-87CC-D563EDFE753A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DC6B8020-1445-4E4B-93D1-0A5C3FC6091F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC6B8020-1445-4E4B-93D1-0A5C3FC6091F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6B8020-1445-4E4B-93D1-0A5C3FC6091F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF19068-D274-43F3-8828-F3A66ACA5F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF19068-D274-43F3-8828-F3A66ACA5F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF19068-D274-43F3-8828-F3A66ACA5F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF19068-D274-43F3-8828-F3A66ACA5F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCE02AF-B829-4AE4-87CC-D563EDFE753A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE02AF-B829-4AE4-87CC-D563EDFE753A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE02AF-B829-4AE4-87CC-D563EDFE753A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE02AF-B829-4AE4-87CC-D563EDFE753A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
